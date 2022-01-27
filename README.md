@@ -6,8 +6,8 @@
 - 🗓️ __Date:__ 10th Feb to 15th Feb 2022
 - 🕰 __Time:__  Every evening from 5:30 PM to 7:15 PM (Nepal Time, GMT+5:45)
 - 📌 __Venue:__ Microsoft Teams (Link would be mailed to registrants)
-- 🧑🏻‍💻 __Instructor:__ [Niyoj Oli](https://www.niyojoli.com.np)
-- 📃 __Syllabus:__ [Syllabus of Git and GitHub Workshop](https://github.com/niyojo/mlsa-git-github-workshop/resources/syllabus.md)
+- 🧑🏻‍💻 __Instructor:__ [Niyoj Oli](https://www.linkedin.com/in/niyoj)
+- 📃 __Syllabus:__ [Syllabus of Git and GitHub Workshop](https://github.com/niyoj/mlsa-git-github-workshop/tree/master/resources/syllabus.md)
 
 Register yourself from this link. Note that deadline for registration is 8th February 2022, 24:00:00 (Nepal Time, GMT +5:45)
 
