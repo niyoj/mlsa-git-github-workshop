@@ -51,11 +51,6 @@
 
 ## Day 5 (Git and GitHub Extras)
 ### 1. Git Tools
-1.1. Staging <br />
-1.2. Searching <br />
-1.3. Rewriting history <br />
-1.4. Other Git tools <br />
-  
 ### 2. Customizing Git
 ### 3. Git Internals
 
