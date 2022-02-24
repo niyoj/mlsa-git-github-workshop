@@ -3,7 +3,7 @@
 5-Days Worksop on Git and GitHub is a 5 days workshop on Git and GitHub organized by Microsoft Learn Student Ambassadors Community. Here, is the quick details of the workshop,
 
 - 🔖 __Event Name:__ 5 Days Workshop on Git and GitHub
-- 🗓️ __Date:__ 20th Feb to 25th Feb 2022
+- 🗓️ __Date:__ 20th February to 25th February 2022
 - 🕰 __Time:__  Every evening from 5:45 PM to 7:30 PM (Nepal Time, GMT+5:45)
 - 📌 __Venue:__ Microsoft Teams (Link would be mailed to registrants)
 - 🧑🏻‍💻 __Instructor:__ [Niyoj Oli](https://www.linkedin.com/in/niyoj)
