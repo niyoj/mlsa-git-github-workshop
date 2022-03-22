@@ -1,6 +1,6 @@
 # [5-Days Workshop on Git and GitHub](https://https://github.com/niyoj/mlsa-git-github-workshop)
 ## Introduction 
-5-Days Worksop on Git and GitHub is a 5 days workshop on Git and GitHub organized by Microsoft Learn Student Ambassadors Community. Here, is the quick details of the workshop,
+5-Days Workshop on Git and GitHub is a 5 days workshop on Git and GitHub organized by Microsoft Learn Student Ambassadors Community. Here, is the quick details of the workshop,
 
 - 🔖 __Event Name:__ 5 Days Workshop on Git and GitHub
 - 🗓️ __Date:__ 15th Feb to 20th Feb 2022
@@ -24,7 +24,7 @@ Let's see how we are going to conduct this workshop virtually but at the same ti
 
 ## Perks of Attending the Workshop
 - A new skillset in their Resumee,
-- InDpeth knowledge on Git and GitHub,
+- InDepth knowledge on Git and GitHub,
 - Preparation for further coding workshops where we will use Git and GitHub for collaborating and code sharing,
 - A shiny certificate from Microsoft Learn Student Ambassador Communtiy, and many more.
 
